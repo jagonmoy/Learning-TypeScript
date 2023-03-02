@@ -1,2 +1,2 @@
-## Day 1 
-- TypeScript spciality in Object, function, array and variable scenerios ! 
+## Day 2
+- Explicit typing and union in TypeScript ! 
